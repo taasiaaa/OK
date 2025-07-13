@@ -1,0 +1,2 @@
+# OK
+Optymalizacja kombinatoryczna projekt
